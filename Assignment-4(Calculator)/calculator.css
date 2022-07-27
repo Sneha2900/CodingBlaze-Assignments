@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(153, 43, 226, 0.86);
+    place-items: center;
+    padding-top: 50px;
+	padding-bottom: 50px;
+    
+}
+button{
+    background-color: chocolate;
+    width: 10%;
+    margin: 20px;
+    font-size: xx-large;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.0), 0 6px 20px 0 rgba(0, 0, 0, 2.0);
+    margin: 5%;
+}
+input{
+    font-size: 50px;
+    margin: 5%;
+    background-color: rgb(138, 242, 242);
+}
+p{
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px #ff0000;
+}
