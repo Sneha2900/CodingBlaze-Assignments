@@ -53,7 +53,6 @@ for(let flat of allFlats){
     for(let flat of allFlats){
     console.log(flat.rentDue);
 }
-
-    console.log("3- Add new entry of rent left on each tenants.");
     console.log("2- Total rent he has earned from all tenants : Rs."+total);
+    console.log("3- Add new entry of rent left on each tenants.");
     console.log("4- Total rent pending  : Rs."+pending);
